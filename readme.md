@@ -7,3 +7,7 @@ git config --global.user.email
 
 - Adiciona tudo que for novo
 git add .
+
+## Tipos 
+Mobile first
+Desktop first
